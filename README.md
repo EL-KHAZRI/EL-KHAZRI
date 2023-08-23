@@ -7,7 +7,7 @@
 I'm a Full-Stack Developer, facilitating cutting-edge engineering solutions with a wide range of e-commerce applications and technology skills. Proven ability to leverage full-stack knowledge and experience to build interactive and user-centered website designs to scale. Extensive expertise in significant system architecture development and administration, network design, and configuration.
 
 * 🌍  I'm based in Casablanca, Morocco
-* ✉️  You can contact me at [salahakrim23@gmail.com](mailto:salahakrim23@gmail.com)
+* ✉️  You can contact me at [elkhazrihicham@gmail.com](mailto:elkhazrihicham@gmail.com)
 
 <!-- <a href="https://www.twitter.com/AkrimSalah" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/AkrimSalah?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
