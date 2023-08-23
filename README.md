@@ -1,4 +1,4 @@
-**Hi 👋 My name is SalahEddine Akrim**
+**Hi 👋 My name is HICHAM EL-KHAZRI**
 ==================================
 
 # **Full-Stack Developer**
