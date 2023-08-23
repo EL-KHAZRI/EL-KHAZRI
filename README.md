@@ -45,7 +45,7 @@ src="https://img.shields.io/twitch/status/salahakrim23?logo=twitchsx&style=for-t
 ## **Socials**
 
 <p align="left">
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" style="margin-right: 10px" /></a>
+<a href="https://discord.com/users/hicham#6296" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" style="margin-right: 10px" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" style="margin-right: 10px" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="margin-right: 10px" /></a>
 <a href="https://www.linkedin.com/in/hicham-el-khazri-371596266/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="margin-right: 10px" /></a>
