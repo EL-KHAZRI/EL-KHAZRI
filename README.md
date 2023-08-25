@@ -4,7 +4,9 @@
 # **Full-Stack Developer**
 
 
-I'm a Full-Stack Developer, facilitating cutting-edge engineering solutions with a wide range of e-commerce applications and technology skills. Proven ability to leverage full-stack knowledge and experience to build interactive and user-centered website designs to scale. Extensive expertise in significant system architecture development and administration, network design, and configuration.
+I am a seasoned Full Stack Developer with a strong background in Java JEE and React development. With significant professional experience, I have honed my skills in crafting innovative solutions across the entire software stack. My expertise spans electronic payment, e-commerce applications, and various technology landscapes, empowering me to create interactive, user-centric website designs that scale seamlessly. I possess extensive expertise in designing and administering complex system architectures, as well as configuring and installing networks.
+
+Driven by a relentless pursuit of excellence, I am fueled by the ambition to continuously learn and stay at the forefront of technological advancements. Beyond my professional journey, I am also deeply passionate about competitive programming, channeling my enthusiasm into mastering algorithms and problem-solving techniques. 
 
 * 🌍  I'm based in Casablanca, Morocco
 * ✉️  You can contact me at [elkhazrihicham@gmail.com](mailto:elkhazrihicham@gmail.com)
